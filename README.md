@@ -8,12 +8,14 @@ Each plot is in a separate R program
 * <a href="https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot3.R">plot3.R</a>
 * <a href="https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot4.R">plot4.R</a>
 
+
+The file <a href='https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot0-Preparate-Data.R'>plot0-Preparate-Data.R</a> is included in each file and prepare the data for plot
+
 Generate this plots
 ![plot1](plot1.png) 
 ![plot2](plot2.png) 
 ![plot3](plot3.png) 
 ![plot4](plot4.png) 
-
 
 
 # Original Readme.md
