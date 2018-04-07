@@ -1,3 +1,22 @@
+# Project 1 of Course Exploratory Data Analysis
+
+## Instructions
+
+Each plot is in a separate R program
+* <a href="https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot1.R">plot1.R</a>
+* <a href="https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot2.R">plot2.R</a>
+* <a href="https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot3.R">plot3.R</a>
+* <a href="https://github.com/ChicoFigueiredo/ExData_Plotting1/blob/master/plot4.R">plot4.R</a>
+
+Generate this plots
+![plot1](plot1.png) 
+![plot2](plot2.png) 
+![plot3](plot3.png) 
+![plot4](plot4.png) 
+
+
+
+# Original Readme.md
 ## Introduction
 
 This assignment uses data from
